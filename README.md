@@ -5,32 +5,32 @@ This project involves comprehensive sentiment analysis of student-submitted repo
 
 ## **Project Code:**
 Steps:
-    1. Define Problem
-    2. Installing needed Libraries
-    3. Data Collection
-    4.  Exploratory Data Analysis (EDA)
-    5.  Data Cleaning
-    6.  Data Visualization
-    7.  Data Pre-Processing
-        *   Convert to lowercase
-        *   Remove special characters
-        *   Remove numbers
-        *   Remove Puctuation
-        *   Tokenize
-        *   Handle contractions
-        *   Remove Stopwords
-        *   Lemmatize
-    8.  Feature Engineering
-    9.  Vectorization using TF-IDF Vectorizer
-    10. Applying Clustering Algorithms
-        *   K-means Clustering
-    11. PCA to visualize important feature in data
-    12. Second Exploratory Data Analysis (EDA)
-    13. Moddeling
-        *   Sequence Padding
-        *   Double layer LSTM
-    14. Measure accuracy of models
-    15. Conclusion
+1. Define Problem
+2. Installing needed Libraries
+3. Data Collection
+4. Exploratory Data Analysis (EDA)
+5. Data Cleaning
+6. Data Visualization
+7. Data Pre-Processing
+   - Convert to lowercase
+   - Remove special characters
+   - Remove numbers
+   - Remove Puctuation
+   - Tokenize
+   - Handle contractions
+   - Remove Stopwords
+   - Lemmatize
+8. Feature Engineering
+9. Vectorization using TF-IDF Vectorizer
+10. Applying Clustering Algorithms
+    - K-means Clustering
+11. PCA to visualize important feature in data
+12. Second Exploratory Data Analysis (EDA)
+13. Moddeling
+    - Sequence Padding
+    - Double layer LSTM
+14. Measure accuracy of models
+15. Conclusion
 
 ## **Installation**
 1. Clone the repository: `git clone https://github.com/Lexuz17/Sentiment_Education_Analysis_Clustering.git`

@@ -5,9 +5,9 @@ This project involves comprehensive sentiment analysis of student-submitted repo
 
 ## **Project Code:**
 Steps:
-    1.  Define Problem
-    2.  Installing needed Libraries
-    3.  Data Collection
+    1. Define Problem
+    2. Installing needed Libraries
+    3. Data Collection
     4.  Exploratory Data Analysis (EDA)
     5.  Data Cleaning
     6.  Data Visualization

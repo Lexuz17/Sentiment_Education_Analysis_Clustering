@@ -50,3 +50,6 @@ The decision to employ this model after the clustering stage is rooted in a deep
 
 ## Contact
 For any questions or inquiries, please contact jason.susanto1703@gmail.com
+
+I have also developed a comprehensive Power BI report that offers insightful visualizations and data analysis.
+![dashboard!](dashboard.png)

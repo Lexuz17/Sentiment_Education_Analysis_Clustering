@@ -26,7 +26,7 @@ Steps:
     - K-means Clustering
 11. PCA to visualize important feature in data
 12. Second Exploratory Data Analysis (EDA)
-13. Moddeling
+13. Modeling
     - Sequence Padding
     - Double layer LSTM
 14. Measure accuracy of models

@@ -1,7 +1,7 @@
 # **Education Analysis Clustering & Classification**
 
 ## **Description**
-This project involves comprehensive sentiment analysis of student-submitted reports and complaints. With the aim of improving education quality, we seek to extract meaningful insights from these inputs, primarily to enhance student satisfaction and teaching quality. Through clustering and classification analysis techniques, our goal is to identify prevalent sentiment patterns and categorize report types for more effective solutions. This proactive project addresses educational concerns and positively influences students' learning experiences and educators' professional development.
+This project involves comprehensive sentiment analysis of student-submitted reports and complaints. With the aim of improving education quality, we seek to extract meaningful insights from these inputs, primarily to enhance student satisfaction and teaching quality. Through clustering and classification analysis techniques, our goal is to identify prevalent sentiment patterns and categorize report types for more effective solutions. This proactive project addresses educational concerns and positively influences students learning experiences and educators' professional development.
 
 ## **Project Code:**
 Steps:
